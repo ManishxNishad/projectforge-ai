@@ -4,7 +4,7 @@ ProjectForge AI is an AI-powered project planning workspace built for college st
 Instead of giving students a random list of project ideas, ProjectForge AI understands their **skills, interests, experience level, available time, and preferred project type** — then helps them discover feasible ideas, evaluate them, create a structured project plan, track progress, and prepare for their viva.
 ---
 ## 🌐 Live Demo
-**Coming soon — deployment in progress.**
+https://projectforge-3c834xai4-nishadmanishdinanath-6216.vercel.app/
 ---
 ## 🎯 The Problem
 Choosing a final-year project sounds simple.
