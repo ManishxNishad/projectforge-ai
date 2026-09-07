@@ -1,4 +1,4 @@
-# 🚀 ProjectForge AI
+2# 🚀 ProjectForge AI
 > **From “What project should I build?” to “I know exactly what to build next.”**
 ProjectForge AI is an AI-powered project planning workspace built for college students who struggle to choose, plan, execute, and confidently present their final-year projects.
 Instead of giving students a random list of project ideas, ProjectForge AI understands their **skills, interests, experience level, available time, and preferred project type** — then helps them discover feasible ideas, evaluate them, create a structured project plan, track progress, and prepare for their viva.
@@ -522,15 +522,18 @@ For domains such as healthcare, finance, cybersecurity, and other high-impact ar
 
 🏆 Hackathon Project
 
-Project: ProjectForge AI
+**PromptWars × Parul University — One-Day Vibe-Coding Hackathon**
 
-Built for: PromptWars Hackathon
+Project: **ProjectForge AI**
 
-Category: AI / Student Productivity / Education Technology
+Category: **AI / Student Productivity / Education Technology**
 
-Core Idea
+Built and deployed a working AI prototype using **Google Antigravity** during the one-day hackathon.
 
-Personalized project discovery + feasibility + execution planning + progress tracking + viva preparation in one workspace.
+**Result:** Ranked **95th among 550+ participants**
+
+The hackathon certificate was awarded for actively participating in the event and deploying a working AI prototype using Google Antigravity.
+
 
 ⸻
 
